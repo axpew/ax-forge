@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="76" viewBox="0 0 340 76">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="sh" x="-10%" y="-20%" width="120%" height="160%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#8b5cf6" flood-opacity=".45"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="6" y="4" width="328" height="62" rx="20" fill="url(#g)"/>
+    <rect x="6" y="4" width="328" height="62" rx="20" fill="url(#s)"/>
+  </g>
+  <circle cx="44" cy="35" r="19" fill="#fff" fill-opacity=".2"/>
+  <path d="M44 25v15 M37 34l7 7 7-7 M35 45h18" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="33" fill="#fff" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="21" font-weight="800">Descargar Ax Forja</text>
+  <text x="76" y="53" fill="#fff" fill-opacity=".85" font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Windows · última versión · gratis</text>
+</svg>
